@@ -87,4 +87,13 @@ console.log("Hello World")
 ![image](https://user-images.githubusercontent.com/98203936/192935651-1aa7769d-3871-48cc-a48c-7c1c864d1b6d.png)
 
 
-16.
+16. Create endpoints in index.js
+
+![image](https://user-images.githubusercontent.com/98203936/193165651-786d5549-7c64-44a0-8a50-c103ed539629.png)
+
+17. Open a browser and type localhost:3000/employees
+
+![image](https://user-images.githubusercontent.com/98203936/193165739-443173f4-9547-44ad-9c1a-60256efd1599.png)
+
+
+18.
