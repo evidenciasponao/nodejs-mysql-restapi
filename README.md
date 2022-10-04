@@ -1,5 +1,5 @@
-# Restapi-nodejs-mysql
-Rest api nodejs mysql
+# Nodejs-Mysql-Restapi
+Nodejs Mysql Restapi
 
 1. First, create a new folder 
 
@@ -106,7 +106,7 @@ console.log("Hello World")
 
 20. Send Get request at http://localhost:3000/employees
 
-![image](https://user-images.githubusercontent.com/98203936/193729991-f546d3a3-8353-4796-88cc-6b6b89c56b66.png)
+![image](https://user-images.githubusercontent.com/98203936/193731059-d6053d7c-9168-4d14-b5ba-8dd231d840b7.png)
 
 21. 
 
