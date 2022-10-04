@@ -1,8 +1,15 @@
 import express from 'express' // Importe express
+import {pool} from './db.js' // Importa el objeto de la base de datos
 
 const app = express() // Inicio la aplicacions
 
 // Creacion de los EndPoints
+
+app.get('/ping', async (req, res) => {
+    const [result] = await pool.query('SELECT "pong" AS result')
+    res.json(result[0])
+});
+
 app.get('/employees', (req, res) => res.send('obteniendo empleados'))
 
 app.post('/employees', (req, res) => res.send('creando empleados'))
