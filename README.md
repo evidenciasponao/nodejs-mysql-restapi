@@ -126,7 +126,7 @@ console.log("Hello World")
 
 25. Open file index.js and type
 
-![image](https://user-images.githubusercontent.com/98203936/193986468-e04150f3-6fd8-4337-b7d3-e3b256528945.png)
+![image](https://user-images.githubusercontent.com/98203936/193987358-1e594b97-39c9-4c26-a6e9-0ccc85757b5b.png)
 
 26. Open http://localhost:3000/ping
 
