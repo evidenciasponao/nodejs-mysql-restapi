@@ -96,4 +96,17 @@ console.log("Hello World")
 ![image](https://user-images.githubusercontent.com/98203936/193165739-443173f4-9547-44ad-9c1a-60256efd1599.png)
 
 
-18.
+18. Install Thunder Client extension  
+
+![image](https://user-images.githubusercontent.com/98203936/193729633-fa6af3b2-7870-4c1e-8e9c-53865551199a.png)
+
+19. Open Thunder Client and press New Request
+
+![image](https://user-images.githubusercontent.com/98203936/193729776-9f6a7261-211b-4a67-938b-3d37dd5d5865.png)
+
+20. Send Get request at http://localhost:3000/employees
+
+![image](https://user-images.githubusercontent.com/98203936/193729991-f546d3a3-8353-4796-88cc-6b6b89c56b66.png)
+
+21. 
+
