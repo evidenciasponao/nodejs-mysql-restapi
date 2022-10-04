@@ -1,5 +1,5 @@
-# Restapi-nodejs-mysql
-Rest api nodejs mysql
+# Nodejs-Mysql-Restapi
+Nodejs Mysql Restapi
 
 1. First, create a new folder 
 
@@ -87,4 +87,36 @@ console.log("Hello World")
 ![image](https://user-images.githubusercontent.com/98203936/192935651-1aa7769d-3871-48cc-a48c-7c1c864d1b6d.png)
 
 
-16.
+16. Create endpoints in index.js
+
+![image](https://user-images.githubusercontent.com/98203936/193165651-786d5549-7c64-44a0-8a50-c103ed539629.png)
+
+17. Open a browser and type localhost:3000/employees
+
+![image](https://user-images.githubusercontent.com/98203936/193165739-443173f4-9547-44ad-9c1a-60256efd1599.png)
+
+
+18. Install Thunder Client extension  
+
+![image](https://user-images.githubusercontent.com/98203936/193729633-fa6af3b2-7870-4c1e-8e9c-53865551199a.png)
+
+19. Open Thunder Client and press New Request
+
+![image](https://user-images.githubusercontent.com/98203936/193729776-9f6a7261-211b-4a67-938b-3d37dd5d5865.png)
+
+20. Send Get request at http://localhost:3000/employees
+
+![image](https://user-images.githubusercontent.com/98203936/193731059-d6053d7c-9168-4d14-b5ba-8dd231d840b7.png)
+
+21. Create a new Folder db and create file database.sql 
+
+![image](https://user-images.githubusercontent.com/98203936/193981382-259ba388-0776-42e6-9732-df4d92932ee6.png)
+
+22. Open mysql and run the code 
+
+![image](https://user-images.githubusercontent.com/98203936/193980372-b97cde3e-a2f9-4e6c-bdfd-4d772778b114.png)
+
+23. 
+
+
+
