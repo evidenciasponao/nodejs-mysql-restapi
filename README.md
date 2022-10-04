@@ -120,7 +120,7 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/193982561-c78453b8-1f10-4f92-9f2a-84b75d94aba5.png)
 
-24. Create a new file db.js
+24. Create a new folder db and create a file db.js
 
 ![image](https://user-images.githubusercontent.com/98203936/193986401-4e666bde-2c81-40df-81bc-faa260d2e5e7.png)
 
@@ -132,7 +132,47 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/193986600-4fd34ca8-91da-4319-9598-89be01367882.png)
 
-27. 
+27. Create a new folder routes and src, move routes into src and move index.js to src and db.js to src
+
+![image](https://user-images.githubusercontent.com/98203936/193988667-cff66fbb-df8d-42a6-9e7a-d24cd40fbca7.png)
+
+28. Open file package.json and type
+
+![image](https://user-images.githubusercontent.com/98203936/193989036-8dc530e4-cde6-4e11-8853-e25413fca773.png)
+
+29. Open cmd and type npm run dev
+
+![image](https://user-images.githubusercontent.com/98203936/193989170-e93685aa-e3f7-4ade-8777-4694e999b3c1.png)
+
+30. Create a new file into routes folder employees.routes.js
+
+![image](https://user-images.githubusercontent.com/98203936/193989815-3786a2c3-59e4-40b3-b668-7c30bacc89dc.png)
+
+31. Copy routes into index.js and paste into employees.routes.js
+
+![image](https://user-images.githubusercontent.com/98203936/193990062-6eb366f7-1c41-409b-8dcf-7519bd25567e.png)
+
+32. Replace app for router
+
+![image](https://user-images.githubusercontent.com/98203936/193990619-5b17b078-947f-4538-9cde-d0f43729170d.png)
+
+33. Open index.js and import employeesRoutes and use app.use
+
+![image](https://user-images.githubusercontent.com/98203936/193990979-043bc219-ffe0-4e50-90d9-b1569afa3d55.png)
+
+34. Create new file index.routes.js into routes folder, copy route and index.js
+
+![image](https://user-images.githubusercontent.com/98203936/193992049-7fbe901c-ea2b-49c0-ba4c-1d31b4976840.png)
+
+![image](https://user-images.githubusercontent.com/98203936/193992112-d268eb5e-6977-48f6-b498-49b327a7fb3d.png)
+
+35. 
+
+
+
+
+
+
 
 
 
