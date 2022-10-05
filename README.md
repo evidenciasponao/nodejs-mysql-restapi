@@ -108,5 +108,15 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/193731059-d6053d7c-9168-4d14-b5ba-8dd231d840b7.png)
 
-21. 
+21. Create a new Folder db and create file database.sql 
+
+![image](https://user-images.githubusercontent.com/98203936/193980265-4d957c2d-48a5-4285-8994-2786d8545997.png)
+
+22. Open mysql and run the code 
+
+![image](https://user-images.githubusercontent.com/98203936/193980372-b97cde3e-a2f9-4e6c-bdfd-4d772778b114.png)
+
+23. 
+
+
 
