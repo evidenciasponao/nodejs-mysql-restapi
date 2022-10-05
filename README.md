@@ -110,7 +110,7 @@ console.log("Hello World")
 
 21. Create a new Folder db and create file database.sql 
 
-![image](https://user-images.githubusercontent.com/98203936/193980265-4d957c2d-48a5-4285-8994-2786d8545997.png)
+![image](https://user-images.githubusercontent.com/98203936/193981382-259ba388-0776-42e6-9732-df4d92932ee6.png)
 
 22. Open mysql and run the code 
 
