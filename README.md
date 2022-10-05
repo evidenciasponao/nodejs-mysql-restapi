@@ -116,7 +116,27 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/193980372-b97cde3e-a2f9-4e6c-bdfd-4d772778b114.png)
 
-23. 
+23. Open cmd and type 
+
+![image](https://user-images.githubusercontent.com/98203936/193982561-c78453b8-1f10-4f92-9f2a-84b75d94aba5.png)
+
+24. Create a new file db.js
+
+![image](https://user-images.githubusercontent.com/98203936/193986401-4e666bde-2c81-40df-81bc-faa260d2e5e7.png)
+
+25. Open file index.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/193986468-e04150f3-6fd8-4337-b7d3-e3b256528945.png)
+
+26. Open http://localhost:3000/ping
+
+![image](https://user-images.githubusercontent.com/98203936/193986600-4fd34ca8-91da-4319-9598-89be01367882.png)
+
+27. 
+
+
+
+
 
 
 
