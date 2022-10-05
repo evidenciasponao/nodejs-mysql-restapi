@@ -1,14 +1,15 @@
 import { Router } from "express"; //Importamos router para organizar todas las rutas de la app
+import { getEmployees, createEmployee, updateEmployee, deleteEmployee } from '../controllers/employees.controller.js' //Importo getEmployees
 
 const router = Router() //Inicializo el router
 
-router.get('/employees', (req, res) => res.send('obteniendo empleados'))
+router.get('/employees', getEmployees)
 
-router.post('/employees', (req, res) => res.send('creando empleados'))
+router.post('/employees', createEmployee)
 
-router.put('/employees', (req, res) => res.send('actualizando empleados'))
+router.put('/employees', updateEmployee)
 
-router.delete('/employees', (req, res) => res.send('eliminando empleados'))
+router.delete('/employees', deleteEmployee)
 
 
 export default router // Exporto el router

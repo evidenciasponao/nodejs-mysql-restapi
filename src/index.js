@@ -6,7 +6,7 @@ const app = express() // Inicio la aplicacions
 
 // Creacion de los EndPoints
 
-app.use(indexRoutes) //Hago uso de la ruta
+app.use(indexRoutes) //Hago uso de la ruta db
 app.use(employeesRoutes) //Hago uso de las rutas
 
 app.listen(3000) // Establezco el puerto de escucha
