@@ -166,16 +166,51 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/193992112-d268eb5e-6977-48f6-b498-49b327a7fb3d.png)
 
-35. 
+35. Create a new folder controllers into src and new file employees.controller.js
+
+![image](https://user-images.githubusercontent.com/98203936/194120897-2564e07a-e24a-4a2e-b5fa-2e299771be6c.png)
+
+36. Copy into employees.routes.js this
+
+![image](https://user-images.githubusercontent.com/98203936/194121160-aa7a983e-8fee-411b-8c37-9bed557295fb.png)
+
+37. Paste into employees.controller.js this
+
+![image](https://user-images.githubusercontent.com/98203936/194121676-514291cf-6bd6-4ec7-9f3b-78948fecac28.png)
+
+38. Open employees.roytes.js and import employees.controller.js
+
+![image](https://user-images.githubusercontent.com/98203936/194122586-a6eccf31-c144-4ce7-9593-ab0d467af89d.png)
+
+39. The same with the other routes
+
+![image](https://user-images.githubusercontent.com/98203936/194128221-d6b1e294-f363-432b-8058-8ca2f8620c66.png)
 
 
+![image](https://user-images.githubusercontent.com/98203936/194128352-275c3664-92d3-4e86-89c8-42891fe684b6.png)
+
+40. Copy funtion into index.routes.js 
+
+![image](https://user-images.githubusercontent.com/98203936/194129921-b263ed67-d629-416d-a168-b19c9b7f774b.png)
 
 
+41. Create a new file index.controller.js into controllers folder and paste
 
+![image](https://user-images.githubusercontent.com/98203936/194130231-a8ffa861-0b47-4fd5-8d01-b12d6cf9bb79.png)
 
+42. Open index.roytes.js and import ping
 
+![image](https://user-images.githubusercontent.com/98203936/194130669-acefc3a9-4511-4376-8fb7-cd2e549ab2f8.png)
 
+43. Cut pool into index.routes.js
 
+![image](https://user-images.githubusercontent.com/98203936/194130876-e55f9bcf-ce69-4c57-b6d3-40995ebe9b6e.png)
+
+44. Paste into index.controller.js
+
+![image](https://user-images.githubusercontent.com/98203936/194131058-b1f7edfd-5693-488c-892c-d3703bf1a58a.png)
+
+45. 
 
 
 
