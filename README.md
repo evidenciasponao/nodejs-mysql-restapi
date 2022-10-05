@@ -189,6 +189,29 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/194128352-275c3664-92d3-4e86-89c8-42891fe684b6.png)
 
+40. Copy funtion into index.routes.js 
 
-40. 
+![image](https://user-images.githubusercontent.com/98203936/194129921-b263ed67-d629-416d-a168-b19c9b7f774b.png)
+
+
+41. Create a new file index.controller.js into controllers folder and paste
+
+![image](https://user-images.githubusercontent.com/98203936/194130231-a8ffa861-0b47-4fd5-8d01-b12d6cf9bb79.png)
+
+42. Open index.roytes.js and import ping
+
+![image](https://user-images.githubusercontent.com/98203936/194130669-acefc3a9-4511-4376-8fb7-cd2e549ab2f8.png)
+
+43. Cut pool into index.routes.js
+
+![image](https://user-images.githubusercontent.com/98203936/194130876-e55f9bcf-ce69-4c57-b6d3-40995ebe9b6e.png)
+
+44. Paste into index.controller.js
+
+![image](https://user-images.githubusercontent.com/98203936/194131058-b1f7edfd-5693-488c-892c-d3703bf1a58a.png)
+
+45. 
+
+
+
 
