@@ -198,7 +198,7 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/194130231-a8ffa861-0b47-4fd5-8d01-b12d6cf9bb79.png)
 
-42. Open index.roytes.js and import ping
+42. Open index.routes.js and import ping
 
 ![image](https://user-images.githubusercontent.com/98203936/194130669-acefc3a9-4511-4376-8fb7-cd2e549ab2f8.png)
 
@@ -210,8 +210,12 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/194131058-b1f7edfd-5693-488c-892c-d3703bf1a58a.png)
 
-45. 
+45. Open database.sql and paste this code on console mysql
 
+![image](https://user-images.githubusercontent.com/98203936/194471678-cc4f2617-ef2a-416b-b4b2-01c8c74b5e7c.png)
 
+![image](https://user-images.githubusercontent.com/98203936/194472447-fccc555d-72e9-4186-aa0f-f9c7d539dd8c.png)
+
+46. Open employees.controller.js and import pool and type
 
 
