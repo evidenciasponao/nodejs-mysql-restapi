@@ -258,4 +258,49 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/200695207-587bcebc-0195-4a96-8337-8864dc972315.png)
 
-56. 
+56. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200697264-47982591-ded4-46c1-9c7b-d4fffbaffe80.png)
+
+
+57. Open Thunderclient and select GET, send
+
+![image](https://user-images.githubusercontent.com/98203936/200697350-e1828646-d1ba-47c7-b046-b49322860274.png)
+
+58. Open a browser and type localhost:3000/employees
+
+![image](https://user-images.githubusercontent.com/98203936/200697542-077a8715-309a-4134-a647-5e64ba1bad2a.png)
+
+59. Open employees.routes.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200698371-9ec1bf2e-3e37-41e6-9bec-9ceb5c900e6d.png)
+
+60. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200698922-def02034-6a89-4fed-9179-94fe64aac234.png)
+
+61. Open employees.routes.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200699078-bd6da9cb-559e-444a-9973-a39d7c5616a3.png)
+
+62. Open browser and type 
+
+![image](https://user-images.githubusercontent.com/98203936/200699793-cc1275cf-8f8f-4f79-9f98-9c70d20d0be0.png)
+
+63. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200701313-2b7fcec4-b23d-42ee-811f-7744d3276be3.png)
+
+64. Open browser and type
+
+![image](https://user-images.githubusercontent.com/98203936/200701680-d06a530e-12d6-4cc3-b141-c9fc6c44b46c.png)
+
+65. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200702606-60efeb04-afba-4511-99b4-093310b2d0a6.png)
+
+66. Open Thunderclient and select GET, send
+
+![image](https://user-images.githubusercontent.com/98203936/200703239-975f97ff-22a9-48e1-ae34-2498949482b1.png)
+
+67. 
