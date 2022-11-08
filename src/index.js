@@ -6,6 +6,8 @@ const app = express() // Inicio la aplicacions
 
 // Creacion de los EndPoints
 
+app.use(express.json()) //Hago uso de objetos Json
+
 app.use(indexRoutes) //Hago uso de la ruta db
 app.use(employeesRoutes) //Hago uso de las rutas
 
