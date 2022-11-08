@@ -218,4 +218,36 @@ console.log("Hello World")
 
 46. Open employees.controller.js and import pool and type
 
+![image](https://user-images.githubusercontent.com/98203936/200688887-c8dec2d5-6f0d-49e5-a5e1-0204d58458b9.png)
 
+47. Open Thunderclient and select POST and Send to employees
+
+![image](https://user-images.githubusercontent.com/98203936/200689552-4555ed9e-52d7-4138-8084-0bb8013c8a93.png)
+
+
+48. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200690011-b81462bc-8c9c-453c-b7f9-fae17e17a000.png)
+
+ 
+ 49. Open Thunderclient and select body, Json and type
+ 
+ ![image](https://user-images.githubusercontent.com/98203936/200690283-a4dda8a4-9fea-430f-8993-ff50e6db291d.png)
+
+50. Open index.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200690593-ce792a40-c003-4dce-afb5-6bec751f621d.png)
+
+51. Open console and Send
+
+![image](https://user-images.githubusercontent.com/98203936/200690875-d4d336dd-6f47-4ebd-b161-a3f4e059c732.png)
+
+52. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200691708-4fc0e47e-8e55-4474-87fd-094eb20da226.png)
+
+53. Open Thunderclient and select POST, send
+
+![image](https://user-images.githubusercontent.com/98203936/200692432-8847bf0f-805f-4244-9e88-b0cb08ee01ea.png)
+
+54. 
