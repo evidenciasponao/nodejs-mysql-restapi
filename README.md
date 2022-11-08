@@ -271,4 +271,28 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/200697542-077a8715-309a-4134-a647-5e64ba1bad2a.png)
 
-59. 
+59. Open employees.routes.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200698371-9ec1bf2e-3e37-41e6-9bec-9ceb5c900e6d.png)
+
+60. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200698922-def02034-6a89-4fed-9179-94fe64aac234.png)
+
+61. Open employees.routes.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200699078-bd6da9cb-559e-444a-9973-a39d7c5616a3.png)
+
+62. Open browser and type 
+
+![image](https://user-images.githubusercontent.com/98203936/200699793-cc1275cf-8f8f-4f79-9f98-9c70d20d0be0.png)
+
+63. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200701313-2b7fcec4-b23d-42ee-811f-7744d3276be3.png)
+
+64. Open browser and type
+
+![image](https://user-images.githubusercontent.com/98203936/200701680-d06a530e-12d6-4cc3-b141-c9fc6c44b46c.png)
+
+65. 
