@@ -258,4 +258,17 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/200695207-587bcebc-0195-4a96-8337-8864dc972315.png)
 
-56. 
+56. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200697264-47982591-ded4-46c1-9c7b-d4fffbaffe80.png)
+
+
+57. Open Thunderclient and select GET, send
+
+![image](https://user-images.githubusercontent.com/98203936/200697350-e1828646-d1ba-47c7-b046-b49322860274.png)
+
+58. Open a browser and type localhost:3000/employees
+
+![image](https://user-images.githubusercontent.com/98203936/200697542-077a8715-309a-4134-a647-5e64ba1bad2a.png)
+
+59. 
