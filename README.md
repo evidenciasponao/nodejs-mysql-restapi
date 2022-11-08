@@ -250,4 +250,12 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/200692432-8847bf0f-805f-4244-9e88-b0cb08ee01ea.png)
 
-54. 
+54. Open employees.controllers.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/200694965-174e98cb-71c5-46e8-97ab-6d5831f4ba35.png)
+
+55. Open Thunderclient and select POST, send
+
+![image](https://user-images.githubusercontent.com/98203936/200695207-587bcebc-0195-4a96-8337-8864dc972315.png)
+
+56. 
