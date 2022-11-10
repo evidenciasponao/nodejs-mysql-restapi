@@ -315,5 +315,13 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/201174190-9496d28c-64cc-47fb-b74c-f2d02c5bc587.png)
 
-70. 
+70. Open employees.controller.js and type 
+
+![image](https://user-images.githubusercontent.com/98203936/201216575-8817a831-870b-4b0a-b23e-8424ffe42304.png)
+
+71. Open Thunderclient and select Delete, send
+
+![image](https://user-images.githubusercontent.com/98203936/201216725-9a5fb682-d06e-4d79-bdb7-be475f59e092.png)
+
+72. 
 
