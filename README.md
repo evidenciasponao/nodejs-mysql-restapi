@@ -303,4 +303,25 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/200703239-975f97ff-22a9-48e1-ae34-2498949482b1.png)
 
-67. 
+67. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/201168909-3c106bfb-a8b2-41d7-be8a-e01a190b7c1a.png)
+
+68. Open employees.routes.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/201173227-36260287-5b7a-4f88-873f-86f46802ab7a.png)
+
+69. Open Thunderclient and select delete, send
+
+![image](https://user-images.githubusercontent.com/98203936/201174190-9496d28c-64cc-47fb-b74c-f2d02c5bc587.png)
+
+70. Open employees.controller.js and type 
+
+![image](https://user-images.githubusercontent.com/98203936/201216575-8817a831-870b-4b0a-b23e-8424ffe42304.png)
+
+71. Open Thunderclient and select Delete, send
+
+![image](https://user-images.githubusercontent.com/98203936/201216725-9a5fb682-d06e-4d79-bdb7-be475f59e092.png)
+
+72. 
+
