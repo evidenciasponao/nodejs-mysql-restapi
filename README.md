@@ -323,5 +323,45 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/201216725-9a5fb682-d06e-4d79-bdb7-be475f59e092.png)
 
-72. 
+72. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/201220130-4182031f-06f1-4137-8483-5c4c2e1317cc.png)
+
+73. Open employees.routes.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/201220336-e9c99d39-dbce-4373-a475-6aec905e0953.png)
+
+74. Open Thunderclient and select Put, Body and type
+
+![image](https://user-images.githubusercontent.com/98203936/201252036-c4881055-9d73-4f04-935f-8e101622152a.png)
+
+75. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/201253237-851918cc-3ac4-4f3c-b939-25d865bfac40.png)
+
+76. Open Thunderclient and select Put, send
+
+![image](https://user-images.githubusercontent.com/98203936/201253368-821aadb3-1560-4e68-823e-74335ec90a4e.png)
+
+77. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/201253871-16c51a43-d76f-4c32-ac3d-a7b22563367a.png)
+
+78. Open Thunderclient and select PUT, send
+
+![image](https://user-images.githubusercontent.com/98203936/201254013-de834fca-b512-4684-8ffa-e3207ffa5709.png)
+
+79. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/201255904-ee90d619-b551-450b-a75d-82ec6b6f304a.png)
+
+80. Open employees.routes.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/201256055-4012f121-1874-4d9e-a05c-83b04b97c704.png)
+
+81. Open Thunderclient select Patch, send
+
+![image](https://user-images.githubusercontent.com/98203936/201256467-195a5a6b-39ce-4878-a031-6c48f8c6bbc0.png)
+
+82. 
 
