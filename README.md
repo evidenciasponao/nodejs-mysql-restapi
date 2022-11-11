@@ -323,5 +323,13 @@ console.log("Hello World")
 
 ![image](https://user-images.githubusercontent.com/98203936/201216725-9a5fb682-d06e-4d79-bdb7-be475f59e092.png)
 
-72. 
+72. Open employees.controller.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/201220130-4182031f-06f1-4137-8483-5c4c2e1317cc.png)
+
+73. Open employees.routes.js and type
+
+![image](https://user-images.githubusercontent.com/98203936/201220336-e9c99d39-dbce-4373-a475-6aec905e0953.png)
+
+74. 
 
